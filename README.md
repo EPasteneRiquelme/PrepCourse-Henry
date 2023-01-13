@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de Pueba (Modulo 02 / Prep Course - Henry)
+Proyecto de pueba (Crear repositorio en GitHub y Clonarlo a mi Escritorio Local)
